@@ -1,0 +1,2 @@
+# studypath
+HSLU UCDE - StudyPath
